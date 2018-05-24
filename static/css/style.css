@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 970px;
+    margin: 0 auto;
+}
+
+body h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+body p {
+    color: red;
+    text-align: center;
+}
+
+body form {
+    margin: 0 auto;
+    width: 200px;
+    box-shadow: 2px 2px 5px black;
+    padding: 20px;
+    text-align: center;
+}
+
+body form span {
+    width: 200px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+body form #submit {
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    margin: auto;
+    display: block;
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+}
